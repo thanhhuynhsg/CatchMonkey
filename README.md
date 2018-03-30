@@ -1,6 +1,6 @@
 # Catch Monkey
-
-
+*Overview<br>
+Considering the game “Bắt Khỉ”, the Caught Monkeys application games simulate this game for running on computer. The application will display the monkey and you need quick hands touch them, selected items advantage from the game and win the highest score.<br>
 
 *How to play?<br>
 Launch the application and click the Play button. When starting the game, you use the mouse to click on monkey on the screen and increased playing time by clicking on clock, if you click on the bomb you will lose.<br>
